@@ -1,0 +1,8 @@
+server:
+  port: 9090
+spring:
+  application:
+    name: ConfigTest
+config:
+  name: config in /jar/application.yml
+# jar fourth priority
